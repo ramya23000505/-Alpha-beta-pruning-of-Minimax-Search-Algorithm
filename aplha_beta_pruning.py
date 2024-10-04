@@ -1,4 +1,5 @@
-
+# Developed by: Ramya R
+# Register by: 212223230169
 import time
 
 class Game:
